@@ -1,0 +1,50 @@
+[
+    {
+        "remote": "device",
+        "repository": "device_samsung_universal7420-common",
+        "target_path": "device/samsung/universal7420-common",
+        "branch": "10"
+    },
+    {
+        "remote": "github",
+        "repository": "universal7420/android_kernel_samsung_universal7420",
+        "target_path": "kernel/samsung/universal7420",
+        "branch": "lineage-17.1"
+    },
+    {
+        "remote": "nad",
+        "repository": "hardware_samsung",
+        "target_path": "hardware/samsung",
+        "branch": "10"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_hardware_samsung_slsi_exynos",
+        "target_path": "hardware/samsung_slsi/exynos",
+        "branch": "lineage-17.1"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_hardware_samsung_slsi_exynos5",
+        "target_path": "hardware/samsung_slsi/exynos5",
+        "branch": "lineage-17.1"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_hardware_samsung_slsi_openmax",
+        "target_path": "hardware/samsung_slsi/openmax",
+        "branch": "lineage-17.1"
+    },
+    {
+        "remote": "github",
+        "repository": "universal7420/android_hardware_samsung_slsi_exynos7420",
+        "target_path": "hardware/samsung_slsi/exynos7420",
+        "branch": "lineage-17.1"
+    },
+    {
+        "remote": "github",
+        "repository": "universal7420/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "lineage-17.1"
+    }
+]]
